@@ -87,7 +87,7 @@ Sam eas the previous model, the precision scores tell us that only 1% of high ri
 
 ![9.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/9.png)
 
-## Summary for Deliverable 2 - Part 1:
+## Summary for Deliverable 3 - Part 1:
 The recall scores of 91% for low risk and 67% for high risk loans are correctly identified.
 Same as the previous model, the precision scores tell us that only 4% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
 
@@ -100,3 +100,14 @@ Same as the previous model, the precision scores tell us that only 4% of high ri
 #### 2. A confusion matrix has been generated
 
 ![12.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/12.png)
+
+#### 3. An imbalanced classification report has been generated
+##### Precision:
+*  High risk: 0.07 / Low risk: 1.00
+##### Recall: 
+* High risk: 0.91 / Low risk: 0.94
+* F1 Score: 0.97
+
+![12.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/12.png)
+
+## Summary for Deliverable 3 - Part 2:
