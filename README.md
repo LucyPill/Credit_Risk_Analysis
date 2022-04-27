@@ -12,7 +12,7 @@ We will use:
 * Easy Ensemble AdaBoost Classifier
 
 ## Results:
-### Deliverable 1: Use Resampling Models to Predict Credit Risk
+## Deliverable 1: Use Resampling Models to Predict Credit Risk
 
 * For all three algorithms, the following have been completed:
 
@@ -25,3 +25,5 @@ We will use:
 ![3.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/3.png)
 
 #### 3. An imbalanced classification report has been generated
+
+![2.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/2.png)
