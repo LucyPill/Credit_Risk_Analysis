@@ -80,13 +80,13 @@ Sam eas the previous model, the precision scores tell us that only 1% of high ri
 
 #### 3. An imbalanced classification report has been generated
 ##### Precision:
-*  High risk: 0.01 / Low risk: 1.00
+*  High risk: 0.04 / Low risk: 1.00
 ##### Recall: 
-* High risk: 0.60 / Low risk: 0.64
-* F1 Score: 0.78
+* High risk: 0.67 / Low risk: 0.91
+* F1 Score: 0.95
 
-![6.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/6.png)
+![9.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/9.png)
 
 ### Summary for Deliverable 2:
-The recall scores of 64% for low risk and 60% for high risk loans are correctly identified.
-Sam eas the previous model, the precision scores tell us that only 1% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
+The recall scores of 91% for low risk and 67% for high risk loans are correctly identified.
+Same as the previous model, the precision scores tell us that only 4% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
