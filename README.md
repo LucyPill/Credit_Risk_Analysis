@@ -95,6 +95,9 @@ Same as the previous model, the precision scores tell us that only 4% of high ri
 ### The EasyEnsembleClassifier algorithm does the following
 
 #### 1. An accuracy score for the model is calculated
+
+The accuracy score gives us they highest success rate 93%. This is a high rate of prediction which means this model 93% of the times predicts correctly whether a loan is high or low risk.
+
 ![11.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/11.png)
 
 #### 2. A confusion matrix has been generated
@@ -111,3 +114,5 @@ Same as the previous model, the precision scores tell us that only 4% of high ri
 ![13.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/13.png)
 
 ## Summary for Deliverable 3 - Part 2:
+The recall scores correctly identify that high risk loans as high risk 92% of the time and that a low risk loan is actually low risk 94% of the time.
+The precision scores tell us that only 7% of high risk loans are correctly identified, but low risk loans are pidentified 100% of the time.
