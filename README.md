@@ -97,3 +97,7 @@ The EasyEnsembleClassifier algorithm does the following:
 
 #### 1. An accuracy score for the model is calculated
 ![11.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/11.png)
+
+#### 2. A confusion matrix has been generated
+
+![12.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/12.png)
