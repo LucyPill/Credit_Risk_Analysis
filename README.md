@@ -45,20 +45,20 @@ The precision scores tell us that only 1% of high risk loans are correctly ident
 #### 1. An accuracy score for the model is calculated
 ![4.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/4.png)
 
-* The balanced accuracy score gives us an overall success rate of 64%.
+* The balanced accuracy score gives us an overall success rate of 62%.
 
 #### 2. A confusion matrix has been generated
 
-![3.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/3.png)
+![5.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/5.png)
 
 #### 3. An imbalanced classification report has been generated
 ##### Precision:
 *  High risk: 0.01 / Low risk: 1.00
 ##### Recall: 
-* High risk: 0.61 / Low risk: 0.68
-* F1 Score: 0.80
+* High risk: 0.60 / Low risk: 0.64
+* F1 Score: 0.78
 
-![2.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/2.png)
+![6.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/6.png)
 
 ### Summary for Deliverable 1:
 The recall scores of 68% for low risk and 61% for high risk loans are correctly identified.
