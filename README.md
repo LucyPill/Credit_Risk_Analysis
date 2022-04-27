@@ -114,8 +114,8 @@ The accuracy score gives us they highest success rate 93%. This is a high rate o
 ![13.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/13.png)
 
 ## Summary for Deliverable 3 - Part 2:
-The recall scores correctly identify that high risk loans as high risk 92% of the time and that a low risk loan is actually low risk 94% of the time.
-The precision scores tell us that only 7% of high risk loans are correctly identified, but low risk loans are pidentified 100% of the time.
+The recall scores of 94% for low risk and 91% for high risk loans are correctly identified.
+Same as the previous model, the precision scores tell us that only 7% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
 
 ## Overall Summary:
 Of the six models, the algorithm with the highest rate of precision was the Easy Ensemble AdaBoost Classifier which identifies high risk loans correctly 7% of the time. The Easy Ensemble Classifier is also the most sensitive of the models with a recall rate of 92%, meaning that 92% of the high risk loans were correctly predicted.
