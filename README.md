@@ -94,3 +94,6 @@ Same as the previous model, the precision scores tell us that only 4% of high ri
 
 #### Part 2:
 The EasyEnsembleClassifier algorithm does the following:
+
+#### 1. An accuracy score for the model is calculated
+![11.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/11.png)
