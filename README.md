@@ -26,7 +26,15 @@ We will use:
 ![3.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/3.png)
 
 #### 3. An imbalanced classification report has been generated
+##### Precision:
+*  High risk: 0.01 / Low risk: 1.00
+##### Recall: 
+* High risk: 0.61 / Low risk: 0.68
+
+* F1 Score: 0.80
 
 ![2.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/2.png)
 
 ## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
+
+
