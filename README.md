@@ -30,14 +30,13 @@ We will use:
 *  High risk: 0.01 / Low risk: 1.00
 ##### Recall: 
 * High risk: 0.61 / Low risk: 0.68
-
 * F1 Score: 0.80
-
-The recall scores of 61% for low risk and 68% for high risk loans are correctly identified.
-The precision scores tell us that only 1% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
 
 ![2.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/2.png)
 
+### Summary:
+The recall scores of 61% for low risk and 68% for high risk loans are correctly identified.
+The precision scores tell us that only 1% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
 ## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
 
