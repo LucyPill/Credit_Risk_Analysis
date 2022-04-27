@@ -45,7 +45,7 @@ The precision scores tell us that only 1% of high risk loans are correctly ident
 #### 1. An accuracy score for the model is calculated
 ![4.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/4.png)
 
-* The balanced accuracy score gives us an overall success rate of 62%.
+* The balanced accuracy score gives us an overall success rate of 62%. This is a bit lower than the prevoius model.
 
 #### 2. A confusion matrix has been generated
 
@@ -60,7 +60,7 @@ The precision scores tell us that only 1% of high risk loans are correctly ident
 
 ![6.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/6.png)
 
-### Summary for Deliverable 1:
-The recall scores of 68% for low risk and 61% for high risk loans are correctly identified.
-The precision scores tell us that only 1% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
+### Summary for Deliverable 2:
+The recall scores of 64% for low risk and 60% for high risk loans are correctly identified.
+Sam eas the previous model, the precision scores tell us that only 1% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
 
