@@ -16,12 +16,12 @@ We will use:
 
 * For all three algorithms, the following have been completed:
 
-1. An accuracy score for the model is calculated
+#### 1. An accuracy score for the model is calculated
 
 ![1.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/1.png)
 
-2. A confusion matrix has been generated
+##### 2. A confusion matrix has been generated
 
-![2.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/2.png)
+![3.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/3.png)
 
-An imbalanced classification report has been generated (15 pt)
+#### 3. An imbalanced classification report has been generated
