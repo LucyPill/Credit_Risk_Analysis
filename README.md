@@ -20,7 +20,7 @@ We will use:
 
 ![1.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/1.png)
 
-##### 2. A confusion matrix has been generated
+#### 2. A confusion matrix has been generated
 
 ![3.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/3.png)
 
