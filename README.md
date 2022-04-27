@@ -65,7 +65,7 @@ The recall scores of 64% for low risk and 60% for high risk loans are correctly 
 Sam eas the previous model, the precision scores tell us that only 1% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
 
 
-### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
+## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 * The combinatorial SMOTEENN algorithm does the following:
 
