@@ -67,7 +67,7 @@ Sam eas the previous model, the precision scores tell us that only 1% of high ri
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
-* The BalancedRandomForestClassifier algorithm does the following:
+#### Part 1 :The BalancedRandomForestClassifier algorithm does the following:
 
 #### 1. An accuracy score for the model is calculated
 ![7.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/7.png)
