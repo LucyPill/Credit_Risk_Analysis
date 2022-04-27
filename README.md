@@ -29,3 +29,4 @@ We will use:
 
 ![2.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/2.png)
 
+## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
