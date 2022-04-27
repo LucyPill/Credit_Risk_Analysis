@@ -108,6 +108,6 @@ Same as the previous model, the precision scores tell us that only 4% of high ri
 * High risk: 0.91 / Low risk: 0.94
 * F1 Score: 0.97
 
-![12.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/12.png)
+![13.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/13.png)
 
 ## Summary for Deliverable 3 - Part 2:
