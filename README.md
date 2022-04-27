@@ -67,7 +67,8 @@ Sam eas the previous model, the precision scores tell us that only 1% of high ri
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
-#### Part 1 :The BalancedRandomForestClassifier algorithm does the following:
+#### Part 1 :
+The BalancedRandomForestClassifier algorithm does the following:
 
 #### 1. An accuracy score for the model is calculated
 ![7.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/7.png)
@@ -90,3 +91,6 @@ Sam eas the previous model, the precision scores tell us that only 1% of high ri
 ## Summary for Deliverable 2:
 The recall scores of 91% for low risk and 67% for high risk loans are correctly identified.
 Same as the previous model, the precision scores tell us that only 4% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
+
+#### Part 2:
+The EasyEnsembleClassifier algorithm does the following:
