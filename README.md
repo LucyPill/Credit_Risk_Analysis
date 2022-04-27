@@ -40,4 +40,27 @@ The precision scores tell us that only 1% of high risk loans are correctly ident
 
 ## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
+* The combinatorial SMOTEENN algorithm does the following:
+
+#### 1. An accuracy score for the model is calculated
+![4.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/4.png)
+
+* The balanced accuracy score gives us an overall success rate of 64%.
+
+#### 2. A confusion matrix has been generated
+
+![3.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/3.png)
+
+#### 3. An imbalanced classification report has been generated
+##### Precision:
+*  High risk: 0.01 / Low risk: 1.00
+##### Recall: 
+* High risk: 0.61 / Low risk: 0.68
+* F1 Score: 0.80
+
+![2.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/2.png)
+
+### Summary for Deliverable 1:
+The recall scores of 68% for low risk and 61% for high risk loans are correctly identified.
+The precision scores tell us that only 1% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
 
