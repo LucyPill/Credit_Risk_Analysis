@@ -17,8 +17,9 @@ We will use:
 * For all three algorithms, the following have been completed:
 
 #### 1. An accuracy score for the model is calculated
-
 ![1.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/1.png)
+
+* The balanced accuracy score gives us an overall success rate of 64%.
 
 #### 2. A confusion matrix has been generated
 
@@ -27,3 +28,4 @@ We will use:
 #### 3. An imbalanced classification report has been generated
 
 ![2.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/2.png)
+
