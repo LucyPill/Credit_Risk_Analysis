@@ -67,10 +67,10 @@ Sam eas the previous model, the precision scores tell us that only 1% of high ri
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
-* The combinatorial SMOTEENN algorithm does the following:
+* The BalancedRandomForestClassifier algorithm does the following:
 
 #### 1. An accuracy score for the model is calculated
-![4.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/4.png)
+![7.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/7.png)
 
 * The balanced accuracy score gives us an overall success rate of 62%. This is a bit lower than the prevoius model.
 
