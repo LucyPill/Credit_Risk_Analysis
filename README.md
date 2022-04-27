@@ -72,11 +72,11 @@ Sam eas the previous model, the precision scores tell us that only 1% of high ri
 #### 1. An accuracy score for the model is calculated
 ![7.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/7.png)
 
-* The balanced accuracy score gives us an overall success rate of 62%. This is a bit lower than the prevoius model.
+* The balanced accuracy score gives us an overall success rate of 78.77%. This is a bit lower than the prevoius model.
 
 #### 2. A confusion matrix has been generated
 
-![5.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/5.png)
+![8.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/8.png)
 
 #### 3. An imbalanced classification report has been generated
 ##### Precision:
