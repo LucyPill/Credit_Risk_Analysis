@@ -118,4 +118,4 @@ The recall scores of 94% for low risk and 91% for high risk loans are correctly 
 Same as the previous model, the precision scores tell us that only 7% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
 
 ## Overall Summary:
-Of the six models, the algorithm with the highest rate of precision was the Easy Ensemble AdaBoost Classifier which identifies high risk loans correctly 7% of the time. The Easy Ensemble Classifier is also the most sensitive of the models with a recall rate of 94%, meaning that 94% of the high risk loans were correctly predicted.
+Out of these models, the algorithm with the highest rate of precision was the Easy Ensemble AdaBoost Classifier which identifies high risk loans correctly 7% of the time. The Easy Ensemble Classifier is also the most sensitive of the models with a recall rate of 94%, meaning that 94% of the high risk loans were correctly predicted.
