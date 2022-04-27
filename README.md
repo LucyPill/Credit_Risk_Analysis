@@ -35,8 +35,9 @@ We will use:
 ![2.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/2.png)
 
 ### Summary for Deliverable 1:
-The recall scores of 61% for low risk and 68% for high risk loans are correctly identified.
+The recall scores of 68% for low risk and 61% for high risk loans are correctly identified.
 The precision scores tell us that only 1% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
+
 ## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
 
