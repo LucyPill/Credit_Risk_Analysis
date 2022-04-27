@@ -87,7 +87,7 @@ Sam eas the previous model, the precision scores tell us that only 1% of high ri
 
 ![9.png](https://github.com/LucyPill/Credit_Risk_Analysis/blob/main/images/9.png)
 
-## Summary for Deliverable 2:
+## Summary for Deliverable 2 - Part 1:
 The recall scores of 91% for low risk and 67% for high risk loans are correctly identified.
 Same as the previous model, the precision scores tell us that only 4% of high risk loans are correctly identified as high risk, but low risk loans are predicted correctly 100% of the time.
 
