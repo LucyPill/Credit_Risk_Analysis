@@ -13,3 +13,8 @@ We will use:
 
 ## Results:
 ### Deliverable 1: Use Resampling Models to Predict Credit Risk
+
+For all three algorithms, the following have been completed:
+An accuracy score for the model is calculated (7.5 pt)
+A confusion matrix has been generated (7.5 pt)
+An imbalanced classification report has been generated (15 pt)
