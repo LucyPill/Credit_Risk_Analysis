@@ -12,3 +12,4 @@ We will use:
 * Easy Ensemble AdaBoost Classifier
 
 ## Results:
+### Deliverable 1: Use Resampling Models to Predict Credit Risk
